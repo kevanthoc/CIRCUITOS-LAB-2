@@ -10,7 +10,7 @@
 
 3. Requerimientos previos
 
-![image](https://user-images.githubusercontent.com/94011974/142952864-e9b3b861-8fa4-44e4-9189-9e36ac73ee8e.png)
+![WhatsApp Image 2022-05-25 at 3 39 24 PM](https://user-images.githubusercontent.com/94011974/170363043-dac7e229-48d0-4467-8dd9-9bf04b88d455.jpeg)
 
 ![image](https://user-images.githubusercontent.com/94011974/142952915-dad27811-013b-4912-98d6-a02ff6977e25.png)
 
