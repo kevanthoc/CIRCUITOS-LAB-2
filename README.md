@@ -10,23 +10,25 @@
 
 3. Requerimientos previos
 
+Análisis de mallas
+
 ![WhatsApp Image 2022-05-25 at 3 39 24 PM](https://user-images.githubusercontent.com/94011974/170363043-dac7e229-48d0-4467-8dd9-9bf04b88d455.jpeg)
+
+Circuito para el análisis de mallas
 
 ![image](https://user-images.githubusercontent.com/94011974/142952915-dad27811-013b-4912-98d6-a02ff6977e25.png)
 
+Malla 1
+
 ![image](https://user-images.githubusercontent.com/94011974/142952989-b9a24545-ddbc-47d9-b3a4-c7b980adbda3.png)
+
+Malla 2
 
 ![image](https://user-images.githubusercontent.com/94011974/142952995-0b19ecf0-9efb-4e75-a76a-937de9e51a31.png)
 
+Malla 3
+
 ![image](https://user-images.githubusercontent.com/94011974/142953002-f6a6a13b-46fb-4ce1-b570-dba0042f2928.png)
-
-![image](https://user-images.githubusercontent.com/94011974/142953012-b581f980-baa2-4a70-9d1f-b57ba461f44e.png)
-
-![image](https://user-images.githubusercontent.com/94011974/142953015-db7af82f-4307-4d56-b6f2-69e914f5f5c7.png)
-
-![image](https://user-images.githubusercontent.com/94011974/142953029-a1798450-8ebf-49c4-841d-72e3cbb76a88.png)
-
-![image](https://user-images.githubusercontent.com/94011974/142953035-3381bdbd-22de-45e5-bce4-d012dbc64584.png)
 
 4. Materiales y equipos requeridos
 
