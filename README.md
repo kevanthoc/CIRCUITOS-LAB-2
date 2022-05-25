@@ -16,19 +16,19 @@ Análisis de mallas
 
 Circuito para el análisis de mallas
 
-![image](https://user-images.githubusercontent.com/94011974/142952915-dad27811-013b-4912-98d6-a02ff6977e25.png)
+![image](https://user-images.githubusercontent.com/94011974/170368099-dd353d06-50a3-46cf-a3a4-ba8d6ab130b0.png)
 
 Malla 1
 
-![image](https://user-images.githubusercontent.com/94011974/142952989-b9a24545-ddbc-47d9-b3a4-c7b980adbda3.png)
+![image](https://user-images.githubusercontent.com/94011974/170368117-ae78efe6-f110-4c5d-be37-99ad8561f6d7.png)
 
 Malla 2
 
-![image](https://user-images.githubusercontent.com/94011974/142952995-0b19ecf0-9efb-4e75-a76a-937de9e51a31.png)
+![image](https://user-images.githubusercontent.com/94011974/170368148-bccfe9fd-6984-48f1-92f9-db1b6184a1cf.png)
 
 Malla 3
 
-![image](https://user-images.githubusercontent.com/94011974/142953002-f6a6a13b-46fb-4ce1-b570-dba0042f2928.png)
+![image](https://user-images.githubusercontent.com/94011974/170368161-37ccb8d9-b2af-4b7f-8202-a12b9393f76f.png)
 
 4. Materiales y equipos requeridos
 
