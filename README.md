@@ -26,6 +26,10 @@ Análisis de mallas
 
 ![WhatsApp Image 2022-05-25 at 3 39 24 PM](https://user-images.githubusercontent.com/94011974/170363043-dac7e229-48d0-4467-8dd9-9bf04b88d455.jpeg)
 
+Circuito armado
+
+![WhatsApp Image 2022-05-26 at 9 08 11 AM](https://user-images.githubusercontent.com/94011974/170504633-5a0e060e-6e7c-4867-aa1d-aa5ac5eb236c.jpeg)
+
 Circuito para el análisis de mallas
 
 ![image](https://user-images.githubusercontent.com/94011974/170368099-dd353d06-50a3-46cf-a3a4-ba8d6ab130b0.png)
