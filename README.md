@@ -24,7 +24,7 @@
 
 Análisis de mallas
 
-![WhatsApp Image 2022-05-25 at 3 39 24 PM](https://user-images.githubusercontent.com/94011974/170363043-dac7e229-48d0-4467-8dd9-9bf04b88d455.jpeg)
+![WhatsApp Image 2022-05-26 at 9 15 26 AM](https://user-images.githubusercontent.com/94011974/170505990-6f22adfb-5e7f-4884-859d-56a7d36f58f4.jpeg)
 
 Circuito armado
 
