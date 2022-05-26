@@ -65,7 +65,7 @@ I2 =  2.3 mA
 
 I3 =  0.48 mA
 
-![image](https://user-images.githubusercontent.com/93958596/142954116-4c4841c1-bf03-4ef8-80f5-dbb0307dfdfb.png)
+![image](https://user-images.githubusercontent.com/94011974/170400361-ac0da96e-71e1-4e44-945c-783e441d2e3f.png)
 
 6. Cálculo de error
 
