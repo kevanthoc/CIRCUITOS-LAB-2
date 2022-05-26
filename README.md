@@ -8,6 +8,18 @@
 
 2. Marco Teórico
 
+![WhatsApp Image 2022-05-26 at 8 47 46 AM](https://user-images.githubusercontent.com/94011974/170503573-9f2199ea-69e2-4acd-bd09-77208cd3f1c6.jpeg)
+
+![WhatsApp Image 2022-05-26 at 8 48 13 AM](https://user-images.githubusercontent.com/94011974/170503616-725587dd-fdc5-4de9-8418-7388aee8509a.jpeg)
+
+![WhatsApp Image 2022-05-26 at 8 48 34 AM](https://user-images.githubusercontent.com/94011974/170503676-6d3f92d3-eacd-49d0-8794-907554649f8c.jpeg)
+
+![WhatsApp Image 2022-05-26 at 8 49 10 AM](https://user-images.githubusercontent.com/94011974/170503727-96f3cba0-d022-4ab9-8cf3-a52c94a3d935.jpeg)
+
+![WhatsApp Image 2022-05-26 at 8 49 34 AM](https://user-images.githubusercontent.com/94011974/170503760-17543032-d15c-4857-a46a-0d33c1618c86.jpeg)
+
+![WhatsApp Image 2022-05-26 at 8 49 58 AM](https://user-images.githubusercontent.com/94011974/170503858-4367fca0-1537-4539-8709-8693729a1ce2.jpeg)
+
 3. Requerimientos previos
 
 Análisis de mallas
