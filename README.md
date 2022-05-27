@@ -97,6 +97,8 @@ I3 =  0.48 mA
 
 7.  Video
 
+https://www.youtube.com/watch?v=4IcsGD-T6jc
+
 8. Conclusiones
 
 9. Bibliografía
