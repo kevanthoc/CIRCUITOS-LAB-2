@@ -4,7 +4,15 @@
 
    1.1. Objetivo General 
 
+Comprobar el cumplimiento de la técnica de análisis de mallas, mediante el análisis de los circuitos eléctricos, las simulaciones y las prácticas de laboratorio físicas, para afianzar los conocimientos adquiridos en clase.
+
    1.2. Objetivos Específicos:
+   
+-Resumir que es el análisis de mallas, la ley de Kirchhoff de Voltajes y la ley de la conservación de la carga, a partir de una búsqueda bibliográfica.
+   
+-Calcular las medidas de cada una de las corrientes de las mallas, mediante la construcción del circuito de forma física, simulador de Tinkercad y ecuaciones algebraicas aplicando el análisis de las mallas.
+
+-Justificar el desarrollo del laboratorio, mediante la presentación de un video, en el que se explique el funcionamiento y la implementación del proyecto.
 
 2. Marco Teórico
 
